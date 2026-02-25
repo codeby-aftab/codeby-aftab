@@ -4,7 +4,7 @@
 
 <div align="center">
 
-### A passionate developer from Karachi, Pakistan
+# A passionate developer from Karachi, Pakistan
 
 </div>
 
