@@ -4,8 +4,6 @@
 
 <div align="center">
 
-# Hi 👋, I'm Aftab Uddin
-
 ### A passionate developer from Karachi, Pakistan
 
 </div>
