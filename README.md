@@ -116,7 +116,7 @@ Worked as a Teaching Assistant, supporting undergraduate courses by assisting st
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/https://github.com/codeby-aftab/Aftab-uddin)&nbsp;&nbsp;&nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/www.linkedin.com/in/aftab-uddin-0276a2127)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/https://github.com/codeby-aftab/Aftab-uddin)&nbsp;&nbsp;&nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aftab-uddin-0276a2127)
 
 </div>
 
