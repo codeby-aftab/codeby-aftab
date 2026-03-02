@@ -73,14 +73,24 @@ Developed and maintained dynamic, responsive websites using WordPress and modern
 
 ## 🎓 Education
 
-| Institution | Degree | Duration |
+| Institution | Degree | Graduation |
 |---|---|---|
-| FAST- NUCES | Bachlor's |  - 2025-12 |
+| FAST- NUCES | Bachlor's |  2025-12 |
 
 ### Bachlor's in Computer Sciense
 *FAST- NUCES*
 
-Pursuing a Bachelor’s degree in Computer Science with a strong focus on software development, web technologies, databases, and problem-solving. Gaining hands-on experience through academic projects involving full-stack web development, WordPress plugin creation, automation workflows, and foundational cybersecurity concepts.
+Bachelor’s degree in Computer Science with a strong focus on software development, web technologies, databases, and problem-solving. Gaining hands-on experience through academic projects involving full-stack web development, WordPress plugin creation, automation workflows, and foundational cybersecurity concepts.
+
+| Institution | Course | Duration |
+|---|---|---|
+| Ashrei-tech NASTAP | Cybersecurity |  2024-12 - 2025-02 |
+
+### Cybersecurity Course
+*ASHREI TECH- NASTAP*
+
+Completed intensive training in Cybersecurity, covering core concepts such as network security, system hardening, threat analysis, ethical hacking fundamentals, and security best practices. Gained practical exposure to identifying vulnerabilities, understanding common cyber threats, applying defensive security measures, and following secure computing practices through hands-on labs and real-world scenarios.
+
 
 ## 💼 Internships
 
